@@ -1,0 +1,20 @@
+# Dr. Fernanda Fernandes - Landing Page
+
+Esta pasta contém os arquivos da Landing Page Premium desenvolvida.
+
+## Arquivos Principais
+
+1.  **index.html**: O arquivo principal da página. Abra este arquivo no seu navegador (Chrome, Edge, etc.) para visualizar o site.
+2.  **styles.css**: Arquivo de estilos que define as cores, tipografia e layout (Design System).
+3.  **script.js**: Arquivo de scripts para animações e interatividade (FAQ, Scroll).
+
+## Edição
+
+- **Texto e Links**: Para alterar textos ou o número do WhatsApp, abra o arquivo `index.html` em um editor de texto (como o Bloco de Notas ou VS Code) e procure pelo texto que deseja mudar.
+- **Imagens**: As imagens estão referenciadas na pasta. Para trocar, basta substituir o arquivo de imagem na pasta ou alterar o nome no `index.html`.
+
+## Design
+
+O design segue o estilo "Quiet Luxury" com:
+- Paleta: Nude, Off-white e Cacau (#6B3F35).
+- Tipografia: Playfair Display (Títulos) e Manrope (Texto).
